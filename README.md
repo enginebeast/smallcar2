@@ -3,7 +3,7 @@
 If you want to use the code, click 'View on Github' button.
 
 ### Error code
-```ino
+```C++
 #include <Servo.h>
 
 Servo servo1;
