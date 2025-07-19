@@ -3,6 +3,7 @@
 If you want to use the code, click 'View on Github' button.
 
 ### Error code
+When I simulate this code on the Tinker which site supports environment to be able to test arduino circuit, it works normally. But, it does not works in the real condition. 
 ```
 #include <Servo.h>
 
