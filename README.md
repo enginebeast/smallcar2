@@ -3,7 +3,7 @@
 If you want to use the code, click 'View on Github' button.
 
 ### Error code
-When I simulate this code on Tinkercad, it works fine. But, it does not works on real hardware. 
+When I simulate this code on Tinkercad, it works fine. But, it does not works on real hardware. I concluded its because delay of this code is too short.
 ```
 #include <Servo.h>
 
