@@ -57,7 +57,7 @@ void loop(){
 }
 ```
 
-When I simulate the code below on Tinkercad, it works fine. But, it does not work on real hardware. I concluded its because delay in this code is too short, so the servo motor cannot react to signal of the Arduino board. So, I gave up the method that didn't work, and select a method to change angle of the servo motor suddenly.
+When I simulate the code above on Tinkercad, it works fine. But, it does not work on real hardware. I concluded its because delay in this code is too short, so the servo motor cannot react to signal of the Arduino board. So, I gave up the method that didn't work, and select a method to change angle of the servo motor suddenly.
 
 But, I have to find a way to change angle gradually, because in the real environment there are always sudden changes.
 
