@@ -1,4 +1,4 @@
-< [Main Page](https://enginebeast.github.io/) < [RC car project](https://enginebeast.github.io/RCcar)
+< [Main Page](https://enginebeast.github.io/) < [Arduino RC car project](https://enginebeast.github.io/RCcar)
 
 ### Process
 First, I programmed a servo motor to change angle gradually.
